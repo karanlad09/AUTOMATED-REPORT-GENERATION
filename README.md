@@ -43,3 +43,4 @@ FPDF – For creating styled PDF reports
 
 ## Output:
 
+![Image](https://github.com/user-attachments/assets/277e225d-7068-4f12-b73a-c9f89cf02027)
